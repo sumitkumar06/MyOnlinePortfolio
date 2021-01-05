@@ -1,0 +1,37 @@
+.intro-head span {
+    font-weight: 700;
+    color: #6699bb;
+}   
+.intro-head p {
+    margin-left: 20px;
+    color: white;
+    padding: 0px 5px;
+    display: table;
+    font-size: 20px;
+    margin-bottom: 7px;
+    background: none repeat scroll 0% 0% #262524;
+    font-weight: 500;
+    line-height: normal;
+}   
+a > span{
+    color: #6699bb;
+}
+h3.org-head {
+    background-color: #6699bb;
+    display: inline-block;
+    padding: 5px 8px;
+    color: #FFF;
+    font-weight: 500;
+    font-size: 16px;
+}
+p{
+    margin-left: 20px;
+    color: #6699bb;
+    padding: 0px 5px;
+    display: table;
+    font-size: 20px;
+    margin-bottom: 7px;
+    background: none repeat scroll 0% 0% #262524;
+    font-weight: 500;
+    line-height: normal;
+}

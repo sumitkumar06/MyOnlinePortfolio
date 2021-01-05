@@ -1,0 +1,23 @@
+.info1{
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+
+}
+.x{
+    /* background-color: blue; */
+    height: 49%;
+    border
+}
+.xii{
+    /* background-color: red; */
+    height: 49%;
+}
+p{
+    background-color: #262524;
+    font-size: 20px;
+    color: #6699bb;
+}
+.info h2{
+    color: #262524;
+}

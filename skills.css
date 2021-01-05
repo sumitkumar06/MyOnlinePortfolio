@@ -1,0 +1,37 @@
+h2.heading{
+    background: none;
+    color: burlywood;
+    font-size: 30px;
+    text-align: center;
+}
+
+h3.org-head {
+    background-color: #6699bb;
+    display: inline-block;
+    padding: 5px 8px;
+    color: #FFF;
+    font-weight: 500;
+    font-size: 16px;
+}
+p{
+    margin-left: 20px;
+    color: #6699bb;
+    padding: 0px 10px;
+    display: table;
+    font-size: 20px;
+    margin-bottom: 7px;
+    background: none repeat scroll 0% 0% #262524;
+    font-weight: 500;
+    line-height: normal;
+}
+span{
+    text-shadow: 2px 2px 1px rgb(196, 48, 48);
+}
+.skill-title{
+    background-color: #262524;
+    display: inline-block;
+    padding: 2px 35px;
+    color: #FFF;
+    font-weight: 500;
+    font-size: 20px;
+}

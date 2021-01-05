@@ -1,0 +1,36 @@
+.container .six.columns {
+    width: 340px;
+}
+h4.grey-head {
+    display: inline-block;
+    padding: 5px 8px;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 15px;
+    background: url(../images/texture_bg.png) repeat #696666;
+}
+.contact-txt {
+    margin-bottom: 15px;
+    color: #fff;
+}
+p {
+    margin: 0 0 20px 0;
+}
+
+input[type="hidden" i] {
+    display: none;
+    appearance: initial;
+    background-color: initial;
+    cursor: default;
+    padding: initial;
+    border: initial;
+    border-color: initial;
+    border-radius: initial;
+}
+.contact-txt a{
+    color: rgb(104, 104, 230);
+}
+.contact-txt a:hover{
+    color: #fff;
+}
